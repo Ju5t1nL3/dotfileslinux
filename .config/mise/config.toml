@@ -1,0 +1,6 @@
+[tools]
+github-cli = "latest"
+neovim = "latest"
+node = "lts"
+python = "latest"
+ripgrep = "latest"
